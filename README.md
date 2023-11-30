@@ -6,18 +6,18 @@ essa linha eu adicionaei direto no site
 ### Aprendendo a linhguagem **MARKDOWN**
 
 Lista:
-1. teste
-1. teste1
-   1. teste1/2
-   1. teste2/2
-1. teste
+1.  Teste
+1.  teste1
+   1.  teste1/2
+   1.  teste2/2
+1.  teste
 
 Lista demarcada:
-. teste
-. teste
-   . teste
-   . teste
-. teste
+*Teste
+*Teste
+   *Teste
+   *Teste
+*Teste
 
 Lista de Tarefas
 -[] Tarefa 1
