@@ -7,10 +7,10 @@ essa linha eu adicionaei direto no site
 
 Lista:
 1. teste
-1.teste1
-   1.teste1/2
-   1.teste2/2
-1.teste
+1. teste1
+   1. teste1/2
+   1. teste2/2
+1. teste
 
 Lista demarcada:
 .teste
