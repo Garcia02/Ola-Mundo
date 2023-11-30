@@ -36,3 +36,20 @@ Num  | Nome | Nota
 1    | José |  10
 2    | Pedro | 5   
 3    | Caio | 7
+---
+### Como destacar a descrição de um comando
+
+Não entendo o comando `document.getElementByld()`
+
+***Trechos de um programa***
+```
+num = int(input('Digite um valor: ")
+if num % 2 == 0:
+    print('O valor {} é par".format(num)
+else:
+    print('O valor {} é impar'.format(num))
+```
+---
+### Como colocar emogis
+Olá, 🖖🐵
+
